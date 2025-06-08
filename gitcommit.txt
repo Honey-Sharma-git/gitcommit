@@ -1,2 +1,3 @@
 Welcome to gitcommit.txt.
 Another commit to check bullet points.
+Using asterisk in the commit messages.
