@@ -4,3 +4,5 @@ Welcome to gitcommit.txt.
 2. Using asterisk in the commit messages.
 3. Using feat in the commit as I have added a new line here.
 4. Using fix in the commit as I have fixed this unordered list to ordered list.
+
+Note: This is for the purpose of learning and it can be deleted later on.
