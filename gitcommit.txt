@@ -1,4 +1,5 @@
 Welcome to gitcommit.txt.
+
 1. Another commit to check bullet points.
 2. Using asterisk in the commit messages.
 3. Using feat in the commit as I have added a new line here.
